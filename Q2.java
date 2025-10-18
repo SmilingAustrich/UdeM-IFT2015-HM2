@@ -9,9 +9,7 @@ import java.util.*;
  * On peut ajouter du monde, bouger du monde, en enlever,
  * puis afficher toute la structure de façon lisible.
  *
- * Auteur : Tarek
- * Cours : IFT2015 (Structures de données)
- * Université de Montréal - Automne 2025
+ * @author : Tarik Hireche
  */
 public class Q2 {
 	

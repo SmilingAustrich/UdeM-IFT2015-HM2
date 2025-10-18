@@ -2,7 +2,7 @@ package ift2015_a25_tp2;
 import java.util.*;
 
 /**
- * IFT2015 - Automne 2025, TP2 - Question 1
+ * IFT2015 - Automne 2025. TP2 - Question 1
  *
  * Ce programme simule un système de distribution de livres lors d’un évènement.
  * Chaque participant demande un seul livre (identifié par un numéro)
@@ -25,11 +25,7 @@ import java.util.*;
  *   participant served: 2 3 5 1 4
  *   total anger: 4
  *
- * Note : on s’en tient à des structures de données simples (ArrayList, Queue),
- * comme demandé dans l’énoncé.
- *
- * @author Tarek
- * @version Automne 2025
+ * @author Tarik Hireche
  */
 public class Q1 {
 
